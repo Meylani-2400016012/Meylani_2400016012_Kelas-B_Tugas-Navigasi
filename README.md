@@ -1,17 +1,10 @@
-# meylani_2400016012_b
+# Reminder Tugas
+Nama: Meylani  
+NIM: 2400016012  
+Kelas: B  
+Mata Kuliah: Teknologi Mobile  
+Dosen Pengampu: Dr. Arif Rahman, S.Kom., M.T.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Aplikasi Reminder Tugas adalah aplikasi Flutter sederhana yang digunakan untuk mencatat dan mengelola daftar tugas harian atau tugas kuliah.  
+Aplikasi ini memiliki tiga halaman utama, yaitu Home Screen, Tambah Tugas, dan Detail Tugas.  
+Data tugas disimpan sementara menggunakan List, sehingga aplikasi tidak menggunakan database atau file.
